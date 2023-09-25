@@ -56,7 +56,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 vbnet
 Copy code
 
-You can copy and paste this README into your GitHub repository's README.md file. Don't forget to include relevant license and usage information in your project repository.
-
-
 
